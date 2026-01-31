@@ -18,7 +18,7 @@ router.get("/", async (req, res) => {
 
 module.exports = router;
 // DELETE lead using GET (for browser testing)
-router.get("/delete/:id", async (req, res) => {
+router.delete("/:id", async (req, res) => {
   await Lead.findByIdAndDelete(req.params.id);
-  res.send("Lead deleted");
+  res.json({ message: "Lead deleted" });
 });
