@@ -6,17 +6,7 @@
 This project is developed as part of the **Future Interns – Full Stack Web Development Internship**.  
 The Mini CRM helps manage client leads generated from contact forms by providing essential CRM functionalities such as lead creation, validation, listing, and deletion.
 
----
 
-## 🔗 **Project Links**
-Deployment in progress
-
-**🌍 Live Website**  
-👉 Deployment in progress
-
-
-**💻 GitHub Repository**  
-👉 https://github.com/Araveetimahendra/FUTURE_FS_02.git
 ---
 
 ## 🚀 Project Overview
